@@ -1,0 +1,8 @@
+streamlit
+requests
+Pillow
+matplotlib
+seaborn
+numpy
+gdown
+scikit-learn
